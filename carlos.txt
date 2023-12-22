@@ -1,3 +1,7 @@
 Test de prueba 1
 Test de prueba 2
 Test de prueba 3
+
+Nueva funcionalidad 1
+Nueva funcionalidad 2
+Nueva funcionalidad 3
